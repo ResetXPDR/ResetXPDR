@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ResetXPDR
 - 👀 I’m interested in coding in any language as a hobby
 - 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on DynamicLOD_ResetEdition
+- 💞️ I’m looking to collaborate on DynamicLOD_ResetEdition and MSFS2020_AutoFPS
 - 📫 How to reach me - via Github
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Leap year does not always occur every 4 years
